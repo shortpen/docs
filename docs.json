@@ -29,7 +29,7 @@
               "essentials/images",
               "essentials/settings",
               "essentials/navigation",
-              "essentials/reusable-snippets"
+              "essentials/reusable snippets"
             ]
           }
         ]
@@ -40,16 +40,16 @@
           {
             "group": "API Documentation",
             "pages": [
-              "api-reference/introduction"
+              "api reference/introduction"
             ]
           },
           {
             "group": "Endpoint Examples",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "api reference/endpoint/get",
+              "api reference/endpoint/create",
+              "api reference/endpoint/delete",
+              "api reference/endpoint/webhook"
             ]
           }
         ]
